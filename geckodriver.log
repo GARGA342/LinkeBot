@@ -1,0 +1,226 @@
+1665628247709	geckodriver	INFO	Listening on 127.0.0.1:60807
+1665628247720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejnu8Gy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665628248967	Marionette	INFO	Marionette enabled
+1665628248971	Marionette	INFO	Listening on port 34933
+Read port: 34933
+WebDriver BiDi listening on ws://127.0.0.1:41855
+1665628249103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejnu8Gy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41855/devtools/browser/bd9110ed-58a5-4780-98b7-80032091b120
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1665628253315	Marionette	INFO	Stopped listening on port 34933
+1665695727618	geckodriver	INFO	Listening on 127.0.0.1:43677
+1665695728129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqFCsvp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665695729101	Marionette	INFO	Marionette enabled
+1665695729105	Marionette	INFO	Listening on port 37039
+Read port: 37039
+WebDriver BiDi listening on ws://127.0.0.1:49345
+1665695729206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqFCsvp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49345/devtools/browser/9906acb5-b168-45f3-8138-a1dbf8f3ea8f
+1665695743667	Marionette	INFO	Stopped listening on port 37039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665695792168	geckodriver	INFO	Listening on 127.0.0.1:57461
+1665695792176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFEtxpl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665695793196	Marionette	INFO	Marionette enabled
+1665695793200	Marionette	INFO	Listening on port 36853
+WebDriver BiDi listening on ws://127.0.0.1:38591
+Read port: 36853
+1665695793421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFEtxpl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38591/devtools/browser/c0688dad-c165-4c5c-aad8-9c945370a2c9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665695849547	Marionette	INFO	Stopped listening on port 36853
+1665695851619	geckodriver	INFO	Listening on 127.0.0.1:39757
+1665695851623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelwZJ1j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665695852464	Marionette	INFO	Marionette enabled
+1665695852469	Marionette	INFO	Listening on port 39351
+Read port: 39351
+WebDriver BiDi listening on ws://127.0.0.1:53617
+1665695852604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelwZJ1j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53617/devtools/browser/d216365d-c731-4e22-b4f1-8de3de7f324f
+1665696201355	geckodriver	INFO	Listening on 127.0.0.1:36531
+1665696201362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBI6TnQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665696202474	Marionette	INFO	Marionette enabled
+1665696202478	Marionette	INFO	Listening on port 46057
+WebDriver BiDi listening on ws://127.0.0.1:57427
+Read port: 46057
+1665696202685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBI6TnQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57427/devtools/browser/09205d6a-f821-42cc-81bc-6aecefe8682c
+1665696212505	Marionette	INFO	Stopped listening on port 46057
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665697098091	Marionette	INFO	Stopped listening on port 39351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665697114820	geckodriver	INFO	Listening on 127.0.0.1:54377
+1665697114826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZXPET9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665697115669	Marionette	INFO	Marionette enabled
+1665697115673	Marionette	INFO	Listening on port 33281
+Read port: 33281
+WebDriver BiDi listening on ws://127.0.0.1:43599
+1665697115804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZXPET9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43599/devtools/browser/7dc52461-8cb3-4369-a91b-33c7090d2b3c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+1665697123890	Marionette	INFO	Stopped listening on port 33281
+1667021925327	geckodriver	INFO	Listening on 127.0.0.1:36887
+1667021925334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD6x5QV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667021926653	Marionette	INFO	Marionette enabled
+1667021926658	Marionette	INFO	Listening on port 38181
+Read port: 38181
+WebDriver BiDi listening on ws://127.0.0.1:60573
+1667021926837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD6x5QV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60573/devtools/browser/b28d4b14-0a38-4e0d-8097-9ce1ae33f73c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+1667021950157	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967305/layout123, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967311/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967314/layout24, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/layout38, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 1769 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 5768 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 1173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 311 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 1160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+1667022298581	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 2309 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667022339122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-10-29T05:45:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-10-29T05:45:41Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667022443844	Marionette	INFO	Stopped listening on port 38181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667022454468	geckodriver	INFO	Listening on 127.0.0.1:38129
+1667022454473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile064ULK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667022455482	Marionette	INFO	Marionette enabled
+1667022455485	Marionette	INFO	Listening on port 42905
+Read port: 42905
+WebDriver BiDi listening on ws://127.0.0.1:60959
+1667022455686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile064ULK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60959/devtools/browser/f470dea1-dbb3-4a40-a6ea-3a5fda450cc6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+1667022480218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667022484955	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667022518299	Marionette	INFO	Stopped listening on port 42905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667022521748	geckodriver	INFO	Listening on 127.0.0.1:58647
+1667022521752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBYoNSz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667022522858	Marionette	INFO	Marionette enabled
+1667022522862	Marionette	INFO	Listening on port 34937
+Read port: 34937
+WebDriver BiDi listening on ws://127.0.0.1:34867
+1667022523019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBYoNSz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34867/devtools/browser/21d6d134-e59e-43d9-a56d-855414c35588
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c773mw1ima5j4oaqr4qz9g4qd, line 19022: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c5z6jilsws4wg2cfbcwt8lhap, line 2467: unreachable code after return statement
+1667022600466	Marionette	INFO	Stopped listening on port 34937
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667022603806	geckodriver	INFO	Listening on 127.0.0.1:33427
+1667022603814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBDAxbS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667022604946	Marionette	INFO	Marionette enabled
+1667022604952	Marionette	INFO	Listening on port 40799
+Read port: 40799
+WebDriver BiDi listening on ws://127.0.0.1:51105
+1667022605077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBDAxbS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51105/devtools/browser/b5cbd66b-b4c6-4aad-8889-4449a6cb36dd
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+1667022639720	Marionette	INFO	Stopped listening on port 40799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
