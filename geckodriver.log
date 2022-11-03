@@ -224,3 +224,48 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
 1667022639720	Marionette	INFO	Stopped listening on port 40799
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667341748669	geckodriver	INFO	Listening on 127.0.0.1:57509
+1667341749171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexoLZL4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667341750359	Marionette	INFO	Marionette enabled
+1667341750370	Marionette	INFO	Listening on port 35363
+Read port: 35363
+WebDriver BiDi listening on ws://127.0.0.1:51785
+1667341750561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexoLZL4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51785/devtools/browser/d6112100-f3fc-4ef4-b7c4-f29df4f6b63b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/k7cowh6xt83f9j71r4f2lmhp, line 19039: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dc10e18xwji8kmt996rxbbbm3, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/k7cowh6xt83f9j71r4f2lmhp, line 19039: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667341856373	Marionette	INFO	Stopped listening on port 35363
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667342127953	geckodriver	INFO	Listening on 127.0.0.1:42755
+1667342127968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI39Ark"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667342129120	Marionette	INFO	Marionette enabled
+1667342129125	Marionette	INFO	Listening on port 41433
+Read port: 41433
+WebDriver BiDi listening on ws://127.0.0.1:40459
+1667342129318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI39Ark/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40459/devtools/browser/1194c187-2e13-4e4a-9d44-63abba916a52
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://br.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/k7cowh6xt83f9j71r4f2lmhp, line 19039: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dc10e18xwji8kmt996rxbbbm3, line 2467: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/k7cowh6xt83f9j71r4f2lmhp, line 19039: unreachable code after return statement
+1667342164849	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667342474605	Marionette	INFO	Stopped listening on port 41433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
